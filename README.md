@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Feyah!
 
-<!--
-**FeaInGithub/FeaInGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Data Analyst**  
+🚀 Currently improving my skills in **Python, SQL, Power BI, ETL, and Airflow** to align with my background in **Information Systems**.  
+📊 Passionate about building **automated data pipelines** and transforming **raw data into meaningful insights**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+Python | PostgreSQL / MySQL | Airflow | Power BI
+
+---
+
+### 🧩 Featured Projects
+- [Data Pipeline with Python and PostgreSQL for Data Analysis & Visualization](https://github.com/FeaInGithub/Data-Pipeline-with-Python-and-PostgreSQL-for-Data-Analysis-Visualization)
+- [MySQL Project: Database Design & Querying](https://github.com/FeaInGithub/MySQL-Project-Creating-Database-Design-and-Querying)
+
+---
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/fea-mie-rambuyon-96025723b) | [Email](mailto:feamie.rambuyon@gmail.com)
+
+⭐ *Thanks for visiting my profile!*
