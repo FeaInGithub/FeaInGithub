@@ -14,7 +14,7 @@ Python | PostgreSQL / MySQL | Airflow | Power BI
 ### 🧩 Featured Projects
 - [Data Pipeline with Python and PostgreSQL for Data Analysis & Visualization](https://github.com/FeaInGithub/Data-Pipeline-with-Python-and-PostgreSQL-for-Data-Analysis-Visualization)
 - [MySQL Project: Database Design & Querying](https://github.com/FeaInGithub/MySQL-Project-Creating-Database-Design-and-Querying)
-
+- [Data Analytics Portfolio – Excel & Power BI](https://github.com/FeaInGithub/Power-BI-and-Advanced-Excel/tree/main)
 ---
 
 ### 📫 Connect with Me
