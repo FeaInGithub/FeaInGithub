@@ -1,20 +1,23 @@
 # 👋 Hi, I'm Feyah!
 
 💼 **Data Analyst**  
-🚀 Currently improving my skills in **Python, SQL, Power BI, ETL, and Airflow** to align with my background in **Information Systems**.  
-📊 Passionate about building **automated data pipelines** and transforming **raw data into meaningful insights**.
+🚀 Continuously improving my skills in **Python, SQL, Power BI, ETL, and Airflow**, aligned with my background in **Information Systems**.  
+📊 Passionate about building **automated data pipelines** and transforming **raw data into actionable insights**.
 
 ---
 
 ### 🧰 Tech Stack
-Python | PostgreSQL / MySQL | Airflow | Power BI
+**Python** | **PostgreSQL / MySQL** | **Airflow** | **Power BI**
 
 ---
 
 ### 🧩 Featured Projects
-- [Data Pipeline with Python and PostgreSQL for Data Analysis & Visualization](https://github.com/FeaInGithub/Data-Pipeline-with-Python-and-PostgreSQL-for-Data-Analysis-Visualization)
-- [MySQL Project: Database Design & Querying](https://github.com/FeaInGithub/MySQL-Project-Creating-Database-Design-and-Querying)
+Most of my projects are ongoing as I’m currently working full-time as a Data Analyst.
+
+- [Data Pipeline with Python and PostgreSQL for Data Analysis & Visualization](https://github.com/FeaInGithub/Data-Pipeline-with-Python-and-PostgreSQL-for-Data-Analysis-Visualization)  
+- [MySQL Project: Database Design & Querying](https://github.com/FeaInGithub/MySQL-Project-Creating-Database-Design-and-Querying)  
 - [Data Analytics Portfolio – Excel & Power BI](https://github.com/FeaInGithub/Power-BI-and-Advanced-Excel/tree/main)
+
 ---
 
 ### 📫 Connect with Me
