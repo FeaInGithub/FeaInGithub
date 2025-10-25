@@ -14,7 +14,7 @@
 ### 🧩 Featured Projects
 Most of my projects are ongoing as I’m currently working full-time as a Data Analyst.
 
-- [Simple End to End ETL Project Cleaning Transforming and Loading Data](https://github.com/FeaInGithub/Simple-End-to-End-ETL-Project-Cleaning-Transforming-and-Loading-Data/tree/main)
+- [DE Project: Automating Data Pipeline](https://github.com/FeaInGithub/DE-Project-Automating-Data-Pipeline)
 - [Data Analytics Portfolio – Excel & Power BI](https://github.com/FeaInGithub/Power-BI-and-Advanced-Excel/tree/main)
 - [MySQL Project: Database Design & Querying](https://github.com/FeaInGithub/MySQL-Project-Creating-Database-Design-and-Querying)  
 - [Data Pipeline with Python and PostgreSQL for Data Analysis & Visualization](https://github.com/FeaInGithub/Data-Pipeline-with-Python-and-PostgreSQL-for-Data-Analysis-Visualization)  
