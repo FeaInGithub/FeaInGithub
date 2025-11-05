@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Feyah!
 
-💼 **Data Analyst**  
+💼 Full-time **Data Analyst**  
+
 🚀 Continuously improving my skills in data analysis using tools such as **Python, SQL, Power BI, ETL, and Airflow**.
-📊 Passionate about building **automated data pipelines** and transforming **raw data into actionable insights**.
+
+📊 Interested in building **automated data pipelines** and transforming **raw data into actionable insights**.
 
 ---
 
