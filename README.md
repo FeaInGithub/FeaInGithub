@@ -18,6 +18,6 @@ Most of my projects are ongoing as I’m currently working full-time as a Data A
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/fea-mie-rambuyon-96025723b) | [Email](mailto:feamie.rambuyon@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fea-mie-rambuyon-96025723b) | [Email](mailto:thisisfeyah@gmail.com)
 
 ⭐ *Thanks for visiting my profile!*
